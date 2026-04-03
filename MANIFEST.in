@@ -1,0 +1,14 @@
+include requirements.txt
+include *.md
+recursive-include maintenance_management *.css
+recursive-include maintenance_management *.csv
+recursive-include maintenance_management *.html
+recursive-include maintenance_management *.ico
+recursive-include maintenance_management *.js
+recursive-include maintenance_management *.json
+recursive-include maintenance_management *.md
+recursive-include maintenance_management *.png
+recursive-include maintenance_management *.py
+recursive-include maintenance_management *.svg
+recursive-include maintenance_management *.txt
+recursive-exclude maintenance_management *.pyc
